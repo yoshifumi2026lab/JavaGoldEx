@@ -1,0 +1,26 @@
+package other.chapter1.Generics;
+
+import java.util.ArrayList;
+import java.util.List;
+public class Main {
+    <T> List<T> foo(){
+        return  new ArrayList<T>();
+    }
+    static <E> void bar(List<E> List){
+        for(E e : List) System.out.println(e);
+    }
+
+    public static void main(String[]args){
+        Main obj = new Main();
+        List<Integer> list1 = obj.foo();
+        List<Integer> list2 = obj.<Integer>foo();
+        
+        list1.add(10);
+        list2.add(20);
+
+        Main.bar(list1);
+        Main.<Integer>bar(list2);
+
+        
+    }
+}
