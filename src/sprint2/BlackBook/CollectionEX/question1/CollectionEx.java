@@ -1,4 +1,4 @@
-package sprint2.BlackBook;
+package sprint2.BlackBook.CollectionEX.question1;
 
 import java.util.ArrayList;
 import java.util.List;
