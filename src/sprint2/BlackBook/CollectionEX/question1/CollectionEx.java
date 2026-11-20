@@ -3,6 +3,13 @@ package sprint2.BlackBook.CollectionEX.question1;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * 要点
+ * プリミティブ型に対応したラッパークラス
+ * int Integer
+ * char Character
+ * 上記以外のラッパークラスは先頭大文字
+ */
 public class CollectionEx {
     public static void main(String[] args) {
         // 問1 プリミティブ型に対するラッパークラス
@@ -110,11 +117,4 @@ public class CollectionEx {
         boolean boolean4 = boolean1.booleanValue();
 
     }
-    /**
-     * 要点
-     * プリミティブ型に対応したラッパークラス
-     * int Integer
-     * char Character
-     * 上記以外のラッパークラスは先頭大文字
-     */
 }
