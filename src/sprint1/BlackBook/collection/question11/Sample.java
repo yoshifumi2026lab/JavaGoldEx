@@ -1,10 +1,11 @@
-package BlackBook.collection.question11;
+package sprint1.BlackBook.collection.question11;
+
 import java.util.ArrayDeque;
 import java.util.Queue;
 
 public class Sample {
     public static void main(String[] args) {
-        Queue<String> queue = new  ArrayDeque<>(5);
+        Queue<String> queue = new ArrayDeque<>(5);
         queue.add("A");
         queue.add("B");
         queue.add("C");

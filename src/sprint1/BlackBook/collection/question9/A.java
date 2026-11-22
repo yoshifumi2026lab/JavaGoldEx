@@ -1,10 +1,10 @@
-package BlackBook.collection.question9;
+package sprint1.BlackBook.collection.question9;
 
 public class A {
 
     private String message = "メッセージ A";
 
-    public void hello(){
+    public void hello() {
         System.out.println("A");
     }
 

@@ -1,9 +1,9 @@
-package BlackBook.collection.question17;
+package sprint1.BlackBook.collection.question17;
 
 import java.util.Arrays;
 import java.util.List;
 
-import BlackBook.collection.question16.Item;
+import sprint1.BlackBook.collection.question16.Item;
 
 public class Sample {
     // 数字 → Integer.compare(o1, o2)
