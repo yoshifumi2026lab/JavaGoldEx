@@ -1,6 +1,6 @@
-package BlackBook.collection.question17;
+package sprint1.BlackBook.collection.question17;
 
-import BlackBook.collection.question16.Item;
+import sprint1.BlackBook.collection.question16.Item;
 import java.util.Comparator;
 
 public class ItemNameComparator implements Comparator<Item> {

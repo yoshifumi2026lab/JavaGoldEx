@@ -1,4 +1,4 @@
-package BlackBook.collection.question9;
+package sprint1.BlackBook.collection.question9;
 
 public class B extends A {
 
@@ -14,7 +14,6 @@ public class B extends A {
         System.out.println("B");
     }
 
-    
     public String getMessage() {
         return message;
     }

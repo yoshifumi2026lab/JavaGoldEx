@@ -1,4 +1,4 @@
-package BlackBook.collection.question16;
+package sprint1.BlackBook.collection.question16;
 
 public class Item implements Comparable<Item> {
     private String name;

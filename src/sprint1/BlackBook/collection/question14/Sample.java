@@ -1,4 +1,4 @@
-package BlackBook.collection.question14;
+package sprint1.BlackBook.collection.question14;
 
 import java.util.Map;
 import java.util.HashMap;
@@ -16,7 +16,7 @@ public class Sample {
         // キー重複 → 値を上書き
         map.put("OTHER", 4);
 
-        map.keySet().stream().forEach(key ->{
+        map.keySet().stream().forEach(key -> {
             System.out.println(map.get(key));
         });
     }

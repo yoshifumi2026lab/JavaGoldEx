@@ -1,4 +1,4 @@
-package BlackBook.collection.question8;
+package sprint1.BlackBook.collection.question8;
 
 import java.util.ArrayList;
 import java.util.List;

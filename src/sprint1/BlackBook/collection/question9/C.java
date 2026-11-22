@@ -1,4 +1,4 @@
-package BlackBook.collection.question9;
+package sprint1.BlackBook.collection.question9;
 
 public class C extends B {
 

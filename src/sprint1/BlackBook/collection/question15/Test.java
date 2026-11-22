@@ -1,4 +1,4 @@
-package BlackBook.collection.question15;
+package sprint1.BlackBook.collection.question15;
 
 import java.util.Map;
 

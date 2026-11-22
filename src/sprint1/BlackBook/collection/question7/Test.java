@@ -1,17 +1,18 @@
-package BlackBook.collection.question7;
+package sprint1.BlackBook.collection.question7;
 
 public class Test<T> {
     T value;
 
-    public  Test(T value){
+    public Test(T value) {
         super();
         this.value = value;
     }
-    public T getValue(){
-        return  value;
+
+    public T getValue() {
+        return value;
     }
 
-    public  void  setValue(T value){
+    public void setValue(T value) {
         this.value = value;
     }
 }
